@@ -151,3 +151,18 @@ tribble(
 # Languages
 
 Portuguese (native); English (fluent); French (fluent); Spanish (fluent)
+
+# Pre-doctoral policy research
+
+*Strengthening Public Health Systems: Policy Ideas from a Governance Perspective* (with Stuti Khemani and Sarang Chaudhary). World Bank Policy Research Working Paper No. 9220, 2020.
+
+*Investing in people to fight poverty in Haiti: reflections for evidence-based policy making (Haiti Poverty Assessment)* (with Federica Marzo, Pablo Facundo Cuevas and Natalia Garbiras). December 2014
+
+*But what is the poverty rate today? Testing poverty nowcasting methods in Latin America and the Caribbean* (with
+German Caruso, Leonardo Lucchetti, Eduardo Malasquez and Andres Castaneda). World Bank Policy Research
+Working Paper No. 8104.
+
+*Sifting through the Data: Labor Markets in Haiti through a Turbulent Decade (2001-2012)* (with Aude- Sophie Rodella and P. Facundo Cuevas). World Bank Policy Research Working Paper No. 7562
+
+*Cyclical Variations in Participation and Employment in Urban Brazil* (with Emmanuel Skoufias and Renata Gukovas).
+No 24952, World Bank Other Operational Studies, May 2016.
