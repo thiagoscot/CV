@@ -28,7 +28,7 @@ library(vitae);library(tibble)
 tribble(
   ~Appointment,
   ~Year,
-  "Economist at World Bank Research Group, Development Impact Evaluation Department",
+  "Economist at World Bank, Development Impact Evaluation (DIME) Department",
   "2021 - "
 ) %>%
   detailed_entries(
@@ -61,26 +61,44 @@ tribble(
 
 # Peer Reviewed Publications 
 
-*Corporate Taxation and Evasion Responses: Evidence from a Minimum Tax in Honduras* (with Felipe Lobel and Pedro Zuniga) - **Conditionally Accepted at American Economic Journal: Economic Policy**
+Corporate Taxation and Evasion Responses: Evidence from a Minimum Tax in Honduras &nbsp;  (with Felipe Lobel and Pedro Zuniga) - **American Economic Journal: Economic Policy, 16 (1): 482–517. DOI: 10.1257/pol.20210587**
 
-*Selecting Top Bureaucrats: Admission Exams and Performance in Brazil* (with [Laura Schiavon](https://www.lauraschiavon.com/) and [Ricardo Dahis](https://www.ricardodahis.com/)) - **Accepted at Review of Economics and Statistics**
+Selecting Top Bureaucrats: Admission Exams and Performance in Brazil &nbsp; (with [Laura Schiavon](https://www.lauraschiavon.com/) and [Ricardo Dahis](https://www.ricardodahis.com/)) - **The Review of Economics and Statistics 2023; doi: https://doi.org/10.1162/rest_a_01311 **
 
-*Political Selection and Bureaucratic Productivity* (with [James Habyarimana](https://gufaculty360.georgetown.edu/s/contact/00336000014RXPpAAO/james-habyarimana) and [Stuti Khemani](https://sites.google.com/view/stutikhemani/)). **Accepted at Economica**
+Political Selection and Bureaucratic Productivity &nbsp; (with [James Habyarimana](https://gufaculty360.georgetown.edu/s/contact/00336000014RXPpAAO/james-habyarimana) and [Stuti Khemani](https://sites.google.com/view/stutikhemani/)). **Economica. 2023; 90(359):  746 - 779. doi: 10.1111/ecca.12470**
 
 # Working papers and work in progress
 
-*Targeting in Tax Compliance Interventions: Experimental Evidence from Honduras* (with Giselle Del Carmen and Edgardo Enrique Hernandez)
+Two Decades of Top Income Shares in Honduras &nbsp; (with Giselle Del Carmen, Santiago Garriga and Wilman Nuñez) *Policy Research working paper ; no. WPS 10722; RRR; PROSPERITY Washington, D.C. : World Bank Group.*
 
-*Estimates of Top Income Inequality using Administrative Data in Honduras* (with Santiago Garriga and Edgardo Enrique Hernandez)
 
-*Building State Capacity: What is the Impact of Development Projects?* (with [Vincenzo di Maro](https://sites.google.com/site/vincenzodimaro/), [David Evans](https://sites.google.com/site/davidkevans/) and
-[Stuti Khemani](https://sites.google.com/view/stutikhemani/))
+MiDES: New Data and Facts from Local Procurement and Budget Execution in Brazil.  &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/), Lucas Nascimento, [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca) and Nathalia Sales) *Policy Research working paper ; no. WPS 10598; RRR Washington, D.C. : World Bank Group.*
+
+Speed of Payment in Procurement Contracts: The Role of Political Connections &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/) and [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca)) *Available at SSRN: https://ssrn.com/abstract=3934021*
+
+Corporate Responses to Size-Based Tax Rates in Lithuania &nbsp; (with [Pablo Garriga](https://pablogarriga.github.io/)) *World Bank Policy Research working paper n. WPS 10500*
+
+Targeting in Tax Compliance Interventions: Experimental Evidence from Honduras &nbsp; (with Giselle Del Carmen and Edgardo Enrique Hernandez) *World Bank Policy Research working paper n. WPS 9967*
+
+Building State Capacity: What is the Impact of Development Projects? &nbsp; (with [Vincenzo di Maro](https://sites.google.com/site/vincenzodimaro/), [David Evans](https://sites.google.com/site/davidkevans/) and
+[Stuti Khemani](https://sites.google.com/view/stutikhemani/)) *World Bank Policy Research working paper n. WPS 9875*
+
+VAT Refunds and Firms’ Performance: Evidence from a Withholding Reform in Honduras &nbsp; (with David Pinto and Jose Carlo Bermudez)
+
+The Financial Risk of Winning a Procurement Contract: Evidence from Chile &nbsp; (with [Andres Gonzalez-Lira](https://sites.google.com/view/andres-gonzalez-lira))
+
+Promotions, Performance, and Diversity in the Brazilian Judiciary &nbsp; (with  [Laura Schiavon](https://www.lauraschiavon.com/) and  [Ricardo Dahis](https://www.ricardodahis.com/))
+
 
 # Conferences and Invited Talks
 
 ```{r}
 tribble(
-  ~ Events, ~ Year, 
+  ~ Events, ~ Year,
+  'NBER Public Economics Fall meeting, IMF Fiscal Affairs Department (FAD), IFS TaxDev seminar',
+  '2024',
+  'Commitment to Equity (CEQ) & World Bank workshop',
+  '2023',
   'International Institute of Public Finance (IIPF), Zurich Conference on Public Finance in Developing Countries (discussant)',
   '2022',
   'World Bank DIME, Tulane University, Center for Global Development, PUC-Rio, Insper, NBER Public
@@ -107,9 +125,9 @@ tribble(
   '2022',
   'Knowledge for Change Program (KCP) - Understanding the determinants of public procurement efficiency: evidence from administrative and survey data from Brazil',
   '2022',
-  'Global Tax Program EFT -  Strategies to Improve Tax Compliance', 
+  'Global Tax Program -- EFT -  Strategies to Improve Tax Compliance', 
   '2022',
-  'Global Tax Program Tax Policy - Analysis to build capacity and improve equity', 
+  'Global Tax Program -- Tax Policy Analysis to build capacity and improve equity', 
   '2022',
   'International Tax and Public Finance PhD Student award at IIPF',
   '2020',
@@ -128,6 +146,8 @@ tribble(
 # Professional Service
 
 **Refereeing**: Journal of the European Economic Association, Journal of Public Economics, World Bank Economic Review, International Tax and Public Finance (ITAX).  
+
+**Conference organization**: World Bank/IFS/ODI Tax Conference (2022; 2023)
 
 # Professional Experience
 
