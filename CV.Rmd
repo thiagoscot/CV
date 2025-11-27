@@ -2,7 +2,7 @@
 name: Thiago 
 surname: Scot
 #position: "Economist"
-address: "Development Impact Evaluation (DIME), World Bank"
+address: "Development Impact Department (DECDI), World Bank"
 www: www.thiagoscot.com
 email: "tscot@worldbank.org"
 #orcid: 0000-0001-6087-0428
@@ -61,9 +61,9 @@ tribble(
 
 # Peer Reviewed Publications 
 
-Two Decades of Top Income Shares in Honduras &nbsp; (with Giselle Del Carmen, Santiago Garriga and Wilman Nuñez) *Journal of Public Economics 2025, Volume 246*
+Two Decades of Top Income Shares in Honduras &nbsp; (with Giselle Del Carmen, Santiago Garriga and Wilman Nuñez) **Journal of Public Economics 2025, Volume 246**
 
-Corporate Taxation and Evasion Responses: Evidence from a Minimum Tax in Honduras &nbsp;  (with Felipe Lobel and Pedro Zuniga) - **American Economic Journal: Economic Policy, 16 (1): 482–517. DOI: 10.1257/pol.20210587**
+Corporate Taxation and Evasion Responses: Evidence from a Minimum Tax in Honduras &nbsp;  (with Felipe Lobel and Pedro Zuniga) - **American Economic Journal: Economic Policy, 16 (1): 482–517 2024. DOI: 10.1257/pol.20210587**
 
 Selecting Top Bureaucrats: Admission Exams and Performance in Brazil &nbsp; (with [Laura Schiavon](https://www.lauraschiavon.com/) and [Ricardo Dahis](https://www.ricardodahis.com/)) - **The Review of Economics and Statistics 2023; doi: https://doi.org/10.1162/rest_a_01311 **
 
@@ -75,7 +75,10 @@ Tax Progressivity and Inequality in Brazil: Evidence from Integrated Administrat
 
 MiDES: New Data and Facts from Local Procurement and Budget Execution in Brazil.  &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/), Lucas Nascimento, [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca) and Nathalia Sales) *Policy Research working paper ; no. WPS 10598; RRR Washington, D.C. : World Bank Group.*
 
+VAT Refunds and Firms’ Performance: Evidence from a Withholding Reform in Honduras &nbsp; (with David Pinto and Jose Carlo Bermudez) *Policy Research working paper ; no. WPS 10996; RRR Washington, D.C. : World Bank Group.*
+
 Speed of Payment in Procurement Contracts: The Role of Political Connections &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/) and [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca)) *Available at SSRN: https://ssrn.com/abstract=3934021*
+
 
 Corporate Responses to Size-Based Tax Rates in Lithuania &nbsp; (with [Pablo Garriga](https://pablogarriga.github.io/)) *World Bank Policy Research working paper n. WPS 10500*
 
@@ -84,11 +87,8 @@ Targeting in Tax Compliance Interventions: Experimental Evidence from Honduras &
 Building State Capacity: What is the Impact of Development Projects? &nbsp; (with [Vincenzo di Maro](https://sites.google.com/site/vincenzodimaro/), [David Evans](https://sites.google.com/site/davidkevans/) and
 [Stuti Khemani](https://sites.google.com/view/stutikhemani/)) *World Bank Policy Research working paper n. WPS 9875*
 
-VAT Refunds and Firms’ Performance: Evidence from a Withholding Reform in Honduras &nbsp; (with David Pinto and Jose Carlo Bermudez)
-
 The Financial Risk of Winning a Procurement Contract: Evidence from Chile &nbsp; (with [Andres Gonzalez-Lira](https://sites.google.com/view/andres-gonzalez-lira))
 
-Promotions, Performance, and Diversity in the Brazilian Judiciary &nbsp; (with  [Laura Schiavon](https://www.lauraschiavon.com/) and  [Ricardo Dahis](https://www.ricardodahis.com/))
 
 
 # Conferences and Invited Talks
