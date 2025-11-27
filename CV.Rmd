@@ -28,7 +28,7 @@ library(vitae);library(tibble)
 tribble(
   ~Appointment,
   ~Year,
-  "Economist at World Bank, Development Impact Evaluation (DIME) Department",
+  "Economist at World Bank, Development Impact Department (DECDI)",
   "2021 - "
 ) %>%
   detailed_entries(
