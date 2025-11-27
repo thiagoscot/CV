@@ -61,6 +61,8 @@ tribble(
 
 # Peer Reviewed Publications 
 
+Two Decades of Top Income Shares in Honduras &nbsp; (with Giselle Del Carmen, Santiago Garriga and Wilman Nuñez) *Journal of Public Economics 2025, Volume 246*
+
 Corporate Taxation and Evasion Responses: Evidence from a Minimum Tax in Honduras &nbsp;  (with Felipe Lobel and Pedro Zuniga) - **American Economic Journal: Economic Policy, 16 (1): 482–517. DOI: 10.1257/pol.20210587**
 
 Selecting Top Bureaucrats: Admission Exams and Performance in Brazil &nbsp; (with [Laura Schiavon](https://www.lauraschiavon.com/) and [Ricardo Dahis](https://www.ricardodahis.com/)) - **The Review of Economics and Statistics 2023; doi: https://doi.org/10.1162/rest_a_01311 **
@@ -69,8 +71,7 @@ Political Selection and Bureaucratic Productivity &nbsp; (with [James Habyariman
 
 # Working papers and work in progress
 
-Two Decades of Top Income Shares in Honduras &nbsp; (with Giselle Del Carmen, Santiago Garriga and Wilman Nuñez) *Policy Research working paper ; no. WPS 10722; RRR; PROSPERITY Washington, D.C. : World Bank Group.*
-
+Tax Progressivity and Inequality in Brazil: Evidence from Integrated Administrative Data &nbsp;(with Theo Palomo, Davi Bhering, Pierre Bachas, Luciana Barcarolo, Celso Campos, Javier Feinmann, Leonardo Moreira, Gabriel Zucman) *EUTO Working Paper n9 2025*
 
 MiDES: New Data and Facts from Local Procurement and Budget Execution in Brazil.  &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/), Lucas Nascimento, [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca) and Nathalia Sales) *Policy Research working paper ; no. WPS 10598; RRR Washington, D.C. : World Bank Group.*
 
@@ -95,7 +96,7 @@ Promotions, Performance, and Diversity in the Brazilian Judiciary &nbsp; (with  
 ```{r}
 tribble(
   ~ Events, ~ Year,
-  'NBER Public Economics Fall meeting, IMF Fiscal Affairs Department (FAD), IFS TaxDev seminar',
+  'NBER Public Economics Fall meeting, IMF Fiscal Affairs Department (FAD), IFS TaxDev seminar, Zurich Conference on Public Finance in Developing Countries',
   '2024',
   'Commitment to Equity (CEQ) & World Bank workshop',
   '2023',
@@ -145,7 +146,7 @@ tribble(
 
 # Professional Service
 
-**Refereeing**: Journal of the European Economic Association, Journal of Public Economics, World Bank Economic Review, International Tax and Public Finance (ITAX).  
+**Refereeing**: American Economic Journal: Economic Policy, Journal of the European Economic Association, Journal of Public Economics, World Bank Economic Review, International Tax and Public Finance (ITAX), Economic Development and Cultural Change.  
 
 **Conference organization**: World Bank/IFS/ODI Tax Conference (2022; 2023)
 
