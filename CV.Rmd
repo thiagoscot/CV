@@ -61,6 +61,8 @@ tribble(
 
 # Peer Reviewed Publications 
 
+Fiscal Capacity and Execution at the Local Level: New Evidence from Brazil.  &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/), Lucas Nascimento, [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca) and Nathalia Sales) **The World Bank Economic Review, 2026**
+
 Two Decades of Top Income Shares in Honduras &nbsp; (with Giselle Del Carmen, Santiago Garriga and Wilman Nuñez) **Journal of Public Economics 2025, Volume 246**
 
 Corporate Taxation and Evasion Responses: Evidence from a Minimum Tax in Honduras &nbsp;  (with Felipe Lobel and Pedro Zuniga) - **American Economic Journal: Economic Policy, 16 (1): 482–517 2024. DOI: 10.1257/pol.20210587**
@@ -73,12 +75,15 @@ Political Selection and Bureaucratic Productivity &nbsp; (with [James Habyariman
 
 Tax Progressivity and Inequality in Brazil: Evidence from Integrated Administrative Data &nbsp;(with Theo Palomo, Davi Bhering, Pierre Bachas, Luciana Barcarolo, Celso Campos, Javier Feinmann, Leonardo Moreira, Gabriel Zucman) *EUTO Working Paper n9 2025*
 
-MiDES: New Data and Facts from Local Procurement and Budget Execution in Brazil.  &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/), Lucas Nascimento, [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca) and Nathalia Sales) *Policy Research working paper ; no. WPS 10598; RRR Washington, D.C. : World Bank Group.*
+The Elusive Impact of Corporate Tax Incentives (with Massimiliano Cali and Georgio Presidente) *World Bank Policy Research working paper n. WPS 11061 2025*
+
+Exploring the Gender Divide in Real Estate Ownership and Property Tax Compliance (with Tatiana Flores, Guillermo Cruces, Jose Carlo Bermúdez, Juan Luis Schiavoni and Dario Tortarolo) *World Bank Policy Research working paper n. WPS 11060 2025*
 
 VAT Refunds and Firms’ Performance: Evidence from a Withholding Reform in Honduras &nbsp; (with David Pinto and Jose Carlo Bermudez) *Policy Research working paper ; no. WPS 10996; RRR Washington, D.C. : World Bank Group.*
 
-Speed of Payment in Procurement Contracts: The Role of Political Connections &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/) and [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca)) *Available at SSRN: https://ssrn.com/abstract=3934021*
+Trade-offs in the Design of Simplified Tax Regimes: Evidence from Sub-Saharan Africa (Christopher Hoy, Alex Oguso, Anna Custers, Daniel Zalo, Ruggero Doino, Jonathan Karver and Nicolas Pillai)  *World Bank Policy Research working paper n. WPS 10909 2024*
 
+Speed of Payment in Procurement Contracts: The Role of Political Connections &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/) and [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca)) *Available at SSRN: https://ssrn.com/abstract=3934021*
 
 Corporate Responses to Size-Based Tax Rates in Lithuania &nbsp; (with [Pablo Garriga](https://pablogarriga.github.io/)) *World Bank Policy Research working paper n. WPS 10500*
 
@@ -96,6 +101,8 @@ The Financial Risk of Winning a Procurement Contract: Evidence from Chile &nbsp;
 ```{r}
 tribble(
   ~ Events, ~ Year,
+  'George Mason Public Policy, IMF Fiscal Affairs Department',
+  '2026',
   'NBER Public Economics Fall meeting, IMF Fiscal Affairs Department (FAD), IFS TaxDev seminar, Zurich Conference on Public Finance in Developing Countries',
   '2024',
   'Commitment to Equity (CEQ) & World Bank workshop',
@@ -146,7 +153,7 @@ tribble(
 
 # Professional Service
 
-**Refereeing**: American Economic Journal: Economic Policy, Journal of the European Economic Association, Journal of Public Economics, World Bank Economic Review, International Tax and Public Finance (ITAX), Economic Development and Cultural Change.  
+**Refereeing**: American Economic Journal: Applied Economics, American Economic Journal: Economic Policy, Journal of the European Economic Association, Journal of Public Economics, World Bank Economic Review, International Tax and Public Finance (ITAX), Economic Development and Cultural Change.  
 
 **Conference organization**: World Bank/IFS/ODI Tax Conference (2022; 2023)
 
