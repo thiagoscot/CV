@@ -1,0 +1,213 @@
+---
+name: Thiago 
+surname: Scot
+#position: "Economist"
+address: "Development Impact Department (DECDI), World Bank"
+www: www.thiagoscot.com
+email: "tscot@worldbank.org"
+#orcid: 0000-0001-6087-0428
+#researchgate: Han_Zhang175
+#github: thiagoscot
+#twitter: \_HanZhang_
+headcolor: 414141 # use black color
+date: "`r format(Sys.time(), '%B %Y')`"
+csl: apa-cv.csl # change this if you want to use other citation styles
+output: 
+  vitae::awesomecv:
+    pandoc_args: ["--lua-filter=lua/strong.lua"] 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae);library(tibble)
+#rmarkdown::pandoc_version()
+```
+# Current Appointment
+
+```{r}
+tribble(
+  ~Institution,
+  ~Year,
+  "Economist at World Bank, Development Impact Department (DECDI)",
+  "2021 - "
+) %>%
+  detailed_entries(
+    with = Institution,
+    when = Year
+  )
+```
+
+# Education
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ Institution,
+  "PhD, Haas School of Business",
+  "2016 - 2021",
+  "University of California, Berkeley",
+  "M.A., Economics",
+  "2011 - 2013",
+  "Pontifícia Universidade Católica (PUC-Rio) - Brazil",
+  "B.A., International Relations",
+  "2005 - 2009",
+  "Pontifícia Universidade Católica (PUC-Rio) - Brazil"
+) %>%
+  detailed_entries(
+    what = Degree,
+    when = Year,
+    with = Institution
+  )
+```
+
+# Peer Reviewed Publications 
+
+Fiscal Capacity and Execution at the Local Level: New Evidence from Brazil.  &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/), Lucas Nascimento, [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca) and Nathalia Sales) **The World Bank Economic Review, 2026**
+
+Two Decades of Top Income Shares in Honduras &nbsp; (with Giselle Del Carmen, Santiago Garriga and Wilman Nuñez) **Journal of Public Economics 2025, Volume 246**
+
+Corporate Taxation and Evasion Responses: Evidence from a Minimum Tax in Honduras &nbsp;  (with Felipe Lobel and Pedro Zuniga) - **American Economic Journal: Economic Policy, 16 (1): 482–517 2024. DOI: 10.1257/pol.20210587**
+
+Selecting Top Bureaucrats: Admission Exams and Performance in Brazil &nbsp; (with [Laura Schiavon](https://www.lauraschiavon.com/) and [Ricardo Dahis](https://www.ricardodahis.com/)) - **The Review of Economics and Statistics 2023; doi: https://doi.org/10.1162/rest_a_01311 **
+
+Political Selection and Bureaucratic Productivity &nbsp; (with [James Habyarimana](https://gufaculty360.georgetown.edu/s/contact/00336000014RXPpAAO/james-habyarimana) and [Stuti Khemani](https://sites.google.com/view/stutikhemani/)). **Economica. 2023; 90(359):  746 - 779. doi: 10.1111/ecca.12470**
+
+# Policy Reports
+
+[Leveraging Digital Public Infrastructure for Payment Delivery and Inclusion: Insights from a Personalized VAT Cashback Program in Brazil](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099012226092584086)
+
+[VAT Cashback Programs in Practice: The Case of Devolve-ICMS in Rio Grande do Sul, Brazil](https://documents1.worldbank.org/curated/en/099082825110521060/pdf/P507183-bab5a661-a98c-4e2b-b411-49676ba58866.pdf)
+
+[Who Participates in Defined Contribution Pension Systems When Informality is High?: Evidence from 20 Years of Administrative Records from the Dominican Republic](https://openknowledge.worldbank.org/server/api/core/bitstreams/3003a78d-b1b4-49cc-9ac3-2b3d35b23fa4/content)
+
+[Income Taxation of the Top Earners in Honduras: Linking Personal and Corporate Taxes](https://openknowledge.worldbank.org/entities/publication/461513e7-4e87-443f-b7f4-536153112a8c)
+
+[Offshore Data Leaks and Tax Enforcement in Developing Countries](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099834105172425489/idu1cb7a17931991e14afe181a21e1f0c8c5e20b)
+
+[Firms' Networks Under Export Exemption Regimes: Stylized Facts from Honduras](https://openknowledge.worldbank.org/server/api/core/bitstreams/b2059872-67c6-4caa-830b-658c8afdc147/content)
+
+[Gender and Property Taxes in São Paulo](https://documents1.worldbank.org/curated/en/099926006262318584/pdf/IDU08402f74706e28047e009ea40bafafe9c2871.pdf)
+
+
+# Working papers and work in progress
+
+Tax Progressivity and Inequality in Brazil: Evidence from Integrated Administrative Data &nbsp;(with Theo Palomo, Davi Bhering, Pierre Bachas, Luciana Barcarolo, Celso Campos, Javier Feinmann, Leonardo Moreira, Gabriel Zucman) *EUTO Working Paper n9 2025*
+
+The Elusive Impact of Corporate Tax Incentives (with Massimiliano Cali and Georgio Presidente) *World Bank Policy Research working paper n. WPS 11061 2025*
+
+Exploring the Gender Divide in Real Estate Ownership and Property Tax Compliance (with Tatiana Flores, Guillermo Cruces, Jose Carlo Bermúdez, Juan Luis Schiavoni and Dario Tortarolo) *World Bank Policy Research working paper n. WPS 11060 2025*
+
+VAT Refunds and Firms’ Performance: Evidence from a Withholding Reform in Honduras &nbsp; (with David Pinto and Jose Carlo Bermudez) *Policy Research working paper ; no. WPS 10996; RRR Washington, D.C. : World Bank Group.*
+
+Trade-offs in the Design of Simplified Tax Regimes: Evidence from Sub-Saharan Africa (Christopher Hoy, Alex Oguso, Anna Custers, Daniel Zalo, Ruggero Doino, Jonathan Karver and Nicolas Pillai)  *World Bank Policy Research working paper n. WPS 10909 2024*
+
+Speed of Payment in Procurement Contracts: The Role of Political Connections &nbsp; (with [Ricardo Dahis](https://www.ricardodahis.com/) and [Bernardo Ricca](https://bernardoricca.wixsite.com/bricca)) *Available at SSRN: https://ssrn.com/abstract=3934021*
+
+Corporate Responses to Size-Based Tax Rates in Lithuania &nbsp; (with [Pablo Garriga](https://pablogarriga.github.io/)) *World Bank Policy Research working paper n. WPS 10500*
+
+Targeting in Tax Compliance Interventions: Experimental Evidence from Honduras &nbsp; (with Giselle Del Carmen and Edgardo Enrique Hernandez) *World Bank Policy Research working paper n. WPS 9967*
+
+Building State Capacity: What is the Impact of Development Projects? &nbsp; (with [Vincenzo di Maro](https://sites.google.com/site/vincenzodimaro/), [David Evans](https://sites.google.com/site/davidkevans/) and
+[Stuti Khemani](https://sites.google.com/view/stutikhemani/)) *World Bank Policy Research working paper n. WPS 9875*
+
+The Financial Risk of Winning a Procurement Contract: Evidence from Chile &nbsp; (with [Andres Gonzalez-Lira](https://sites.google.com/view/andres-gonzalez-lira))
+
+
+
+# Conferences and Invited Talks
+
+```{r}
+tribble(
+  ~ Events, ~ Year,
+  'George Mason Public Policy, IMF Fiscal Affairs Department',
+  '2026',
+  'NBER Public Economics Fall meeting, IMF Fiscal Affairs Department (FAD), IFS TaxDev seminar, Zurich Conference on Public Finance in Developing Countries',
+  '2024',
+  'Commitment to Equity (CEQ) & World Bank workshop',
+  '2023',
+  'International Institute of Public Finance (IIPF), Zurich Conference on Public Finance in Developing Countries (discussant)',
+  '2022',
+  'World Bank DIME, Tulane University, Center for Global Development, PUC-Rio, Insper, NBER Public
+Economics Spring Meeting [Job Market year]', 
+'2021',
+'International Institute of Public Finance (IIPF); Society for Institutional and Organizational Economics(SIOE); Berkeley Public Finance Seminar; Berkeley Development Seminar; NTA 113th Annual Conference; EGSC at Washington University', 
+'2020',
+'NOVAFRICA Conference on Economic Development in Africa',
+'2019',
+'World Bank ABCDE Conference',
+'2018') %>% 
+  detailed_entries(
+    what = Events,
+    when = Year
+  )
+```
+
+# Awards and Grants
+
+```{r}
+tribble(
+  ~Grant, ~Year,
+  'Research Support Budget (RSB) - Public procurement and private sector: evidence from a novel dataset on subnational procurement in Brazil ',
+  '2022',
+  'Knowledge for Change Program (KCP) - Understanding the determinants of public procurement efficiency: evidence from administrative and survey data from Brazil',
+  '2022',
+  'Global Tax Program -- EFT -  Strategies to Improve Tax Compliance', 
+  '2022',
+  'Global Tax Program -- Tax Policy Analysis to build capacity and improve equity', 
+  '2022',
+  'International Tax and Public Finance PhD Student award at IIPF',
+  '2020',
+  'UC Berkeley’s 2019 Outstanding GSI Award (awarded to top 10% of TAs)',
+  '2019',
+'Weiss Family Fund Exploratory Grant',
+'2017',
+ 'Winner of ANBIMA Capital Markets Award for best Master’s thesis project in Brazil',
+ '2012') %>% 
+  detailed_entries(
+    what = Grant,
+    when = Year
+  ) 
+```
+
+# Professional Service
+
+**Refereeing**: American Economic Journal: Applied Economics, American Economic Journal: Economic Policy, Journal of the European Economic Association, Journal of Public Economics, World Bank Economic Review, International Tax and Public Finance (ITAX), Economic Development and Cultural Change.  
+
+**Conference organization**: World Bank/IFS/ODI Tax Conference (2022; 2023)
+
+# Professional Experience
+
+```{r}
+tribble(
+  ~ Institution, ~ Year, ~ Position,
+  "The World Bank, Washington, DC",
+  "2014 - 2016",
+  "Consultant at Poverty and Inequality Global Practice (Latin America)",
+  "Opus Asset Management",
+  "2013",
+  "International Economist"
+) %>%
+  detailed_entries(
+    what = Position,
+    with = Institution,
+    when = Year
+  )
+```
+
+# Languages
+
+Portuguese (native); English (fluent); French (fluent); Spanish (fluent)
+
+# Pre-doctoral policy research
+
+*Strengthening Public Health Systems: Policy Ideas from a Governance Perspective* (with Stuti Khemani and Sarang Chaudhary). World Bank Policy Research Working Paper No. 9220, 2020.
+
+*Investing in people to fight poverty in Haiti: reflections for evidence-based policy making (Haiti Poverty Assessment)* (with Federica Marzo, Pablo Facundo Cuevas and Natalia Garbiras). December 2014
+
+*But what is the poverty rate today? Testing poverty nowcasting methods in Latin America and the Caribbean* (with
+German Caruso, Leonardo Lucchetti, Eduardo Malasquez and Andres Castaneda). World Bank Policy Research
+Working Paper No. 8104.
+
+*Sifting through the Data: Labor Markets in Haiti through a Turbulent Decade (2001-2012)* (with Aude- Sophie Rodella and P. Facundo Cuevas). World Bank Policy Research Working Paper No. 7562
+
+*Cyclical Variations in Participation and Employment in Urban Brazil* (with Emmanuel Skoufias and Renata Gukovas).
+No 24952, World Bank Other Operational Studies, May 2016.
